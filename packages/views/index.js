@@ -3,4 +3,4 @@ import axios from 'axios';
 
 console.log(axios);
 
-export default `${utils}view`;
+export default `${utils}viewXXXXXXXXX`;
