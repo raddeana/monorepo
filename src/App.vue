@@ -6,10 +6,10 @@
 </template>
 
 <script>
-import views from '../packages/views';
-import viewstest from '../packages/views/test';
-import utils from '../packages/utils';
-import test from '../packages/test';
+import views from 'views';
+import viewstest from 'views/test';
+import utils from 'utils';
+import test from '@t/test';
 
 console.log(views, utils, test);
 
