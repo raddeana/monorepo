@@ -9,9 +9,8 @@
 import views from 'views';
 import viewstest from 'views/test';
 import utils from 'utils';
-import test from '@t/test';
 
-console.log(views, utils, test);
+console.log(views, utils);
 
 export default {
   name: 'App',

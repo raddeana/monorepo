@@ -1,3 +1,3 @@
 import utils from 'utils'
 
-export default `${utils}viewXXXXXXXXXXXXXXXXXXXXXX`;
+export default `${utils}view胡地班吉拉`;
