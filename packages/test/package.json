@@ -1,11 +1,12 @@
 {
-  "name": "testX",
-  "version": "1.0.2",
+  "name": "test",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "18d618cd2065bd55efff92d68cfeb9476adcfe10"
 }
