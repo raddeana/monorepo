@@ -1,6 +1,6 @@
 {
   "name": "views",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "utils": "^1.0.3"
+    "utils": "^1.0.4"
   }
 }
