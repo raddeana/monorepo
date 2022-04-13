@@ -1,7 +1,6 @@
 {
   "name": "utils",
   "version": "1.0.5",
-  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
