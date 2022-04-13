@@ -11,5 +11,6 @@
   "dependencies": {
     "axios": "0.26.1",
     "utils": "^1.0.6"
-  }
+  },
+  "gitHead": "6fc0a4ddb1cb951373867ce49382f21fb456427e"
 }
