@@ -1,7 +1,6 @@
 {
   "name": "views",
   "version": "1.0.8",
-  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
