@@ -1,6 +1,6 @@
 {
   "name": "views",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "0.26.1",
-    "utils": "^1.0.5"
+    "utils": "^1.0.6"
   }
 }
