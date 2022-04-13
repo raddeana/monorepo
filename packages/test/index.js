@@ -1,1 +1,1 @@
-export default 'test king 钻石';
+export default 'test king 钻石3';
