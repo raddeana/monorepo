@@ -9,13 +9,19 @@
 import views from 'views';
 import viewstest from 'views/test';
 import utils from 'utils';
-
-console.log(views, utils);
+import test from 'test';
 
 export default {
   name: 'App',
   components: {
     viewstest
+  },
+  data () {
+    return {
+      views,
+      utils,
+      test
+    };
   }
 }
 </script>
